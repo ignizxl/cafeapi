@@ -1,0 +1,5 @@
+DATABASE_NAME = "flask_database"
+DATABASE_USER = "flask_user"
+DATABASE_PASSWORD = 12345
+DATABASE_HOST = "localhost"
+DATABASE_PORT = 5433
